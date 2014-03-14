@@ -1,6 +1,3 @@
-kynetx
-======
-
 ruleset HelloWorldApp {
   meta {
     name "Hello World"
